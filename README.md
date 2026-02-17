@@ -14,7 +14,7 @@ style.css : 글자 색과 배치 등 디자인 설명
 #실행 방법
 
 GitHub features를 이용해 웹사이트로 공개햌ᄉ습니다. 
-주소 : https:// 박주한.github.lo/예비소프트웨어개발과/
+주소 : https:// 2026717.github.lo/https://github.com/20260717-jpg/homwork/
 
 #수정한 내용 
 
